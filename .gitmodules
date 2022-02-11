@@ -1,0 +1,3 @@
+[submodule "meditationsite"]
+	path = meditationsite
+	url = https://github.com/stoneneedle/meditationsite
