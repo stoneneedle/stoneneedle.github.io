@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Gideon Roman', cursive;
+}
+
+/* Footer Styling - modified/taken from my project 1 */
+
+.stdfooter {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #333;
+}
+
+a > i {
+  color: #fff;
+}
+
+.social-media-items {
+  font-size: 0.8em;
+  
+}
+.social-media-items > p {
+  padding: 5px;
+}
+
+.social-media-items > a {
+  color: #fff;
+}
+
+.footer-links {
+  margin-top: -15px;
+  margin-bottom: -10px;
+  margin-left: 8px;
+}
+
+.footer-links-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.footer-links-list {
+  list-style: none;
+  font-size: 0.8rem;
+}
+
+.footer-links-list-item > a {
+  text-decoration: none;
+  color: #FF5;
+}
+
+.footer-links-list-item > a:hover {
+  text-decoration: none;
+  color: #FF5403;
+}
+
+.copyright-info {
+  font-size: 0.6em;
+}
