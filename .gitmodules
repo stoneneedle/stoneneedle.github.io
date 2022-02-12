@@ -1,3 +1,6 @@
 [submodule "meditationsite"]
 	path = meditationsite
 	url = https://github.com/stoneneedle/meditationsite
+[submodule "segiphysite"]
+	path = segiphysite
+	url = https://github.com/stoneneedle/segiphysite
